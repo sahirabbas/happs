@@ -45,5 +45,4 @@ To deploy the happs as a docker container
 * `cd happs/`
 * `docker-compose up -d`
 
-Once you setup apache then you should be able to open 127.0.0.1 in your browser and login with:
-`'test@app.com'` / `'password'` .
+Once the docker containers are up and running then you should be able to open 127.0.0.1 in your browser and log in with: `'test@app.com'` / `'password'`.
